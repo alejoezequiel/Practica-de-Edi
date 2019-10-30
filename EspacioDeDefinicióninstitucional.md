@@ -1,4 +1,4 @@
-# Espacio De Definición institucional
+# Edi 
 ## trabajo de investigacion de vaciones de invierno
 ### A.Tendencias en salarios segun tecnologia.
 
